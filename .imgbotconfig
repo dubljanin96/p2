@@ -1,0 +1,7 @@
+{
+  "schedule": "daily", // Options: daily, weekly, monthly
+  "compressionLevel": "lossless", // Options: lossless, lossy
+  "ignoredFiles": [
+    "assets/special-image.png"
+  ]
+}
